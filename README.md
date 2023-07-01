@@ -3,7 +3,8 @@ Java and MYSQL based desktop application project
 
 This is a Simple Bank Management System and I have won 3rd place to this project from MIHA institute.
 
-#Technologies
+Technologies
+
 Java Swing
 MySQL
 
