@@ -15,7 +15,7 @@ The system consists of two main sections:
 1. **Admin Section**
 2. **Customer Section**
 
-Each section includes multiple pages designed for different functionalities. Below are the descriptions of each page along with their respective images.
+Each section includes multiple pages designed for different functionalities.
 
 ---
 
@@ -39,7 +39,7 @@ Check out the project demo on **YouTube**:
 ---
 
 ## License
-This project is **open-source** and available under the [MIT License](LICENSE).
+This project is **open-source** and available under the MIT License.
 
 ---
 
