@@ -20,10 +20,10 @@ Each section includes multiple pages designed for different functionalities.
 ---
 
 ### Customer Section
-![customer Scetion](1.png)
+<img src="1.png" alt="Customer Section" width="640">
 
-### Admin Section
-![Admin Section](2.png)
+## Admin Section
+<img src="2.png" alt="Admin Section" width="640">
 
 ---
 
