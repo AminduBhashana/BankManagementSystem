@@ -19,6 +19,14 @@ Each section includes multiple pages designed for different functionalities.
 
 ---
 
+### Customer Section
+![customer Scetion](image1.png)
+
+### Admin Section
+![Admin Section](image2.png)
+
+---
+
 ## Demo Video
 Check out the project demo on **YouTube**:  
 [![YouTube Video](https://img.shields.io/badge/YouTube-Click%20Here-red?logo=youtube)](https://www.youtube.com/watch?v=WwRvXW1O_Zg)
